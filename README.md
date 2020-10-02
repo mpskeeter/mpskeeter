@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://codepen.io/mpskeeter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mpskeeter" height="30" width="40" /></a>
 <a href="https://twitter.com/mpskeeter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mpskeeter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mpskeeter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mpskeeter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mark-peters-5388544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mpskeeter" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mpskeeter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mpskeeter" height="30" width="40" /></a>
 <a href="https://instagram.com/mpskeeter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mpskeeter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mpskeeter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mpskeeter" height="30" width="40" /></a>
